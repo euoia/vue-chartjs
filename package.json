@@ -71,7 +71,7 @@
     "release": "pnpm bumpVersion && git push origin main --tags && pnpm createGithubRelease"
   },
   "peerDependencies": {
-    "chart.js": "^3.7.0",
+    "chart.js": "^4.0.1",
     "vue": "^3.0.0-0 || ^2.6.0"
   },
   "devDependencies": {
